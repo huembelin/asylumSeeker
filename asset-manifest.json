@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/asylumSeeker/static/css/main.dd9f7f38.chunk.css",
+    "main.js": "/asylumSeeker/static/js/main.519b2a68.chunk.js",
+    "main.js.map": "/asylumSeeker/static/js/main.519b2a68.chunk.js.map",
+    "runtime-main.js": "/asylumSeeker/static/js/runtime-main.f519fe00.js",
+    "runtime-main.js.map": "/asylumSeeker/static/js/runtime-main.f519fe00.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/asylumSeeker/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.cb3c6f6a.chunk.js": "/asylumSeeker/static/js/2.cb3c6f6a.chunk.js",
+    "static/js/2.cb3c6f6a.chunk.js.map": "/asylumSeeker/static/js/2.cb3c6f6a.chunk.js.map",
+    "static/js/3.9916c71b.chunk.js": "/asylumSeeker/static/js/3.9916c71b.chunk.js",
+    "static/js/3.9916c71b.chunk.js.map": "/asylumSeeker/static/js/3.9916c71b.chunk.js.map",
+    "index.html": "/asylumSeeker/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/asylumSeeker/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.dd9f7f38.chunk.css.map": "/asylumSeeker/static/css/main.dd9f7f38.chunk.css.map",
+    "static/js/2.cb3c6f6a.chunk.js.LICENSE.txt": "/asylumSeeker/static/js/2.cb3c6f6a.chunk.js.LICENSE.txt",
+    "static/media/profile.815cca69.png": "/asylumSeeker/static/media/profile.815cca69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f519fe00.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.cb3c6f6a.chunk.js",
+    "static/css/main.dd9f7f38.chunk.css",
+    "static/js/main.519b2a68.chunk.js"
+  ]
+}
